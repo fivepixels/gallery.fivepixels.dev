@@ -1,0 +1,8 @@
+{
+  "name": "gallery-cattynip-dev",
+  "description": "Cattynip's gallery website, https://gallery.cattynip.dev",
+  "author": "Seol SO <hi@cattynip.dev>",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true
+}
